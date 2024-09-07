@@ -1,0 +1,14 @@
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\bin\Debug\net8.0\Aula 06_09.exe
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\bin\Debug\net8.0\Aula 06_09.deps.json
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\bin\Debug\net8.0\Aula 06_09.runtimeconfig.json
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\bin\Debug\net8.0\Aula 06_09.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\bin\Debug\net8.0\Aula 06_09.pdb
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.AssemblyInfo.cs
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\refint\Aula 06_09.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.pdb
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\Aula 06_09.genruntimeconfig.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Aula 06_09\Aula 06_09\obj\Debug\net8.0\ref\Aula 06_09.dll
