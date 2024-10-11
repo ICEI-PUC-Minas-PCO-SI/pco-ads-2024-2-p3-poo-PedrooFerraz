@@ -1,0 +1,24 @@
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\bin\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.exe
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\bin\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.deps.json
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\bin\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.runtimeconfig.json
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\bin\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\bin\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.pdb
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Form1.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.csproj.GenerateResource.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.AssemblyInfo.cs
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\refint\Atividade Classes e Métodos Abstratos.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.pdb
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade Classes e Métodos Abstratos.genruntimeconfig.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\ref\Atividade Classes e Métodos Abstratos.dll
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Circulo.Circulo.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Circulo.Hexagono.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Octagono.Octagono.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Octagono.Pentagono.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Quadrado.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Pentagono.Retangulo.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Forms.Triangulo.Triangulo.resources
+C:\Users\Pedro Henrique\source\repos\POO PUC\Atividade Classes e Métodos Abstratos\Atividade Classes e Métodos Abstratos\obj\Debug\net8.0-windows\Atividade_Classes_e_Métodos_Abstratos.Properties.Resources.resources
