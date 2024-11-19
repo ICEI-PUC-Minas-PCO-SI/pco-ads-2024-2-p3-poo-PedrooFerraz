@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Henrique\\source\\repos\\POO PUC\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj": {}
+    "C:\\Users\\Pedro Henrique\\OneDrive\\Área de Trabalho\\POO\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Henrique\\source\\repos\\POO PUC\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj": {
+    "C:\\Users\\Pedro Henrique\\OneDrive\\Área de Trabalho\\POO\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Henrique\\source\\repos\\POO PUC\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Henrique\\OneDrive\\Área de Trabalho\\POO\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj",
         "projectName": "Atividade Classes e Métodos Abstratos",
-        "projectPath": "C:\\Users\\Pedro Henrique\\source\\repos\\POO PUC\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj",
+        "projectPath": "C:\\Users\\Pedro Henrique\\OneDrive\\Área de Trabalho\\POO\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos.csproj",
         "packagesPath": "C:\\Users\\Pedro Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Henrique\\source\\repos\\POO PUC\\Atividade Classes e Métodos Abstratos\\Atividade Classes e Métodos Abstratos\\obj\\",
+        "outputPath": "C:\\Users\\Pedro Henrique\\OneDrive\\Área de Trabalho\\POO\\Atividade Classes e Métodos Abstratos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
