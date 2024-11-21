@@ -1,0 +1,4 @@
+C:\Users\Pedro Henrique\source\repos\POO PUC\Tratamento de Exceções\Tratamento de Exceções\obj\Debug\net8.0\Tratamento de Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrique\source\repos\POO PUC\Tratamento de Exceções\Tratamento de Exceções\obj\Debug\net8.0\Tratamento de Exceções.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\source\repos\POO PUC\Tratamento de Exceções\Tratamento de Exceções\obj\Debug\net8.0\Tratamento de Exceções.AssemblyInfo.cs
+C:\Users\Pedro Henrique\source\repos\POO PUC\Tratamento de Exceções\Tratamento de Exceções\obj\Debug\net8.0\Tratamento de Exceções.csproj.CoreCompileInputs.cache
